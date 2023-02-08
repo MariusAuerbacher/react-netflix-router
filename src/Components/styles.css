@@ -1,0 +1,134 @@
+.root {
+  background-color: black;
+  color: white;
+}
+.navbar-logo{
+  height: 50px
+}
+.navbar button,
+.navbar ul
+{
+  background-color: white;
+}
+.navbar {
+  background-color: black;
+}
+/*
+.navbar{
+  background-color: black;
+  color:white
+}*/
+/*
+.navbar,
+.jumbotron {
+  background-color: black;
+  color: white;
+}
+
+.jumbotron {
+  height: 6vh;
+  margin: 0;
+  padding: 0;
+}*/
+/*
+  .menuitems {
+    font-size: 0;
+  }
+  
+  .btn-outline-light {
+    justify-self: center;
+    align-items: center;
+    border-radius: 0%;
+  }
+  footer a{
+    color: #6c757d;
+    font-size: 10px;
+  }
+  
+  
+  .fab {
+    color: #6c757d;
+    display: inline;
+    vertical-align: middle;
+  }
+  
+  
+  .social-icons {
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .btn-outline-light {
+    color: white;
+    border-color: white;
+    width: 80px;
+    height: 25px;
+    font-size: 10px;
+  }
+  
+  .genres-button {
+    align-self: center;
+  
+  }
+  
+  .genres-button button {
+    height: 3.5vh;
+    width: 100px;
+    font-size: 15px;
+    text-align: center;
+    line-height: 0;
+  }
+  
+  .nav-search {
+    background-color: transparent;
+    border: none;
+    font-size: 1.2rem;
+  }
+  
+  /*small icon*/ /*
+  .dropdown img {
+    max-height: 25px;
+  }
+  
+  /*KIDS*/ /*
+  .nav-link.disabled{
+  color: white;
+  cursor: pointer;
+  }
+  
+  /*the bell*/ /*
+  .btn-outline-success {
+    border: none;
+   color: white;
+   line-height: 1.8;
+  
+  }
+  
+  /*End Dropdown*/ /*
+  .dropdown .btn-secondary {
+   background-color: transparent;
+   border: none;
+  
+  
+  }
+  
+  /*the bell on hover*/ /*
+  .btn-outline-success:hover{
+    background-color: transparent;
+  }
+  
+  /*two icons on genre row*/ /*
+  .btn-group.dropstart.dropdown-search i{
+    align-self: center;
+    cursor: pointer;
+    line-height: 0;
+  }
+  
+  .menuitems{
+   align-self: center;
+  }
+  @media (max-width: 575px) {
+    h4{
+        font-size: 20px;
+    }
+  }*/
